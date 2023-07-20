@@ -52,18 +52,31 @@
   El lenguaje de programación usado fue JAVA, como IDE, se uso NetBeans, Eclipse y Visual Studio Code.
   <p>
     <h3 align = "center">JAVA</h3>
-    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/8bbdeba4-90df-4a4d-9eef-0d4c66b3f31a">
+    <p align = "center">
+    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/8bbdeba4-90df-4a4d-9eef-0d4c66b3f31a" width=300>
+      </p>
   </p>
     <h3 align = "center">NetBeans</h3>
-    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/f712889c-3294-48e6-9137-3419c4471bd6">
+    <p align = "center">
+    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/f712889c-3294-48e6-9137-3419c4471bd6" width=300>
+      </p>
   <p>
     <h3 align = "center">Eclipse</h3>
-    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/29a4ee7a-c959-4f27-b2ab-a525853706b0">
+    <p align = "center">
+    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/29a4ee7a-c959-4f27-b2ab-a525853706b0" width=300>
+      </p>
   </p>
    <h3 align = "center">Visual Studio Code</h3>
-    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/012edf61-9116-4dfb-b09f-1ef39e73c2cb">
+   <p align = "center">
+    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/012edf61-9116-4dfb-b09f-1ef39e73c2cb" width=300>
+     </p>
 </p>
 <h2 align = "left">Personas Contribuyentes y Personas Desarrolladoras del Proyecto</h2>
 <p align = "left">
-  Todo el programa fue realizado por <a href="www.linkedin.com/in/brayan-muñoz-64225a24a">Brayan Muñoz</a>
+  Todo el programa fue realizado por <a href="www.linkedin.com/in/brayan-muñoz-64225a24a">Brayan Muñoz</a><br>
+  <p align = "center">
+  <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/119a923a-d40f-4369-8fef-ebdbfc151d00">
+ </p>
 </p>
+
+
