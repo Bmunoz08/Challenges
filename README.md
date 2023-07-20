@@ -30,6 +30,40 @@
   Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo convertir divisas, ¿tal vez pueda añadir a mi programa otros tipos de conversiones como temperatura por ejemplo?
   Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera sabía que necesitaba.
 </p>
+<h2 align="left">Estado del proyecto</h2>
+<p align = "left">
+  El estado de mi proyecto se encuentra finalizado, se añadieron otros tipos de conversores y se cambio la funcionalidad del proyecto, sin embargo sigue funcional, hay cosas que s epueden mejorar, pero para ser mi primer    challenge de java no lo veo nada mal.<br>
+  <p align = "center">
+    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/e6eb9c3a-eb0c-4f61-a66e-2231b3888ddf">
+  </p>
+</p>
+<h2>Demostración de funciones y aplicaciones</h2>
 
-Challenge #1 Back-End Alura Latam
-
+<h2 align = "left">Acceso al proyecto</h2>
+<p align = "left">
+  El proyecto es de caracter <a href="https://github.com/Bmunoz08/Challenges.git">público.</a>
+  <br>
+  <p align ="center">
+  <a href="https://github.com/Bmunoz08/Challenges.git"><img src = "https://github.com/Bmunoz08/Challenges/assets/132781834/19d7fcab-0438-41cb-ac56-d955deda6d03"></a>
+</p>
+</p>
+<h2 align ="left">Tecnologías utilizadas</h2>
+<p>
+  El lenguaje de programación usado fue JAVA, como IDE, se uso NetBeans, Eclipse y Visual Studio Code.
+  <p>
+    <h3 align = "center">JAVA</h3>
+    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/8bbdeba4-90df-4a4d-9eef-0d4c66b3f31a">
+  </p>
+    <h3 align = "center">NetBeans</h3>
+    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/f712889c-3294-48e6-9137-3419c4471bd6">
+  <p>
+    <h3 align = "center">Eclipse</h3>
+    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/29a4ee7a-c959-4f27-b2ab-a525853706b0">
+  </p>
+   <h3 align = "center">Visual Studio Code</h3>
+    <img src="https://github.com/Bmunoz08/Challenges/assets/132781834/012edf61-9116-4dfb-b09f-1ef39e73c2cb">
+</p>
+<h2 align = "left">Personas Contribuyentes y Personas Desarrolladoras del Proyecto</h2>
+<p align = "left">
+  Todo el programa fue realizado por <a href="www.linkedin.com/in/brayan-muñoz-64225a24a">Brayan Muñoz</a>
+</p>
